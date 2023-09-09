@@ -4,3 +4,4 @@
 - 🌱 I’m currently learning WI-FI hacking.
 - 💞️ I'm looking for job openings and projects.
 - 📫 I'm on Discord: openbsd69
+- 🖥️ I use the linux distribution QubesOS as the main and Debian on dual boot.
