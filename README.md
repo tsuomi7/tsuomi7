@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tsuomi.
 - 👀 I’m interested in cyber-security, Desktop Applications, web back-end, Linux, Artificial intelligence and automation.
-- 🧠 python, html, css, shell script and C#.
+- 🧠 I know python, html, css, shell script, SQL and C#.
 - 🌱 I’m currently learning WI-FI hacking.
 - 💞️ I'm looking for job openings and projects.
 - 📫 I'm on Discord: openbsd69
