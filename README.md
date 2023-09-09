@@ -8,6 +8,6 @@ tsuomi@debian:~$ nmap what-I-know.com
 
 Nmap scan report for what-I-know.com (127.0.0.1)
 
-PORT    STATE language programming
+PORT       STATE    language programming
 
-22/tcp  open  python(100%), html(100%), css(100%), shell script(100%) and C#(40%)
+22/tcp     open     python(100%), html(100%), css(100%), shell script(100%) and C#(40%)
