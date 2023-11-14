@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tsuomi.
-- 👀 I’m interested in cyber-security, Desktop Applications, web back-end, Linux, Artificial intelligence and automation.
-- 🧠 I know python, html, css, shell script and SQL
+- 👀 I’m interested in cyber-security, reverse engineering, Desktop Applications and Linux.
+- 🧠 I know C, Python, Html, Css, Shell Script and SQL.
 - 🌱 I’m currently learning WI-FI hacking.
 - 💞️ I'm looking for job openings and projects.
 - 📫 I'm on Discord: openbsd69
-- 🖥️ I use the linux distribution QubesOS as the main and Debian on dual boot.
+- 🖥️ I use the linux distribution QubesOS as the main
